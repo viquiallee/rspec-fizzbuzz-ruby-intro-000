@@ -6,4 +6,5 @@ def fizzbuzz("int")
   elsif "int" == /5
   puts "Buzz"
 else 
+  puts "FizzBuzz"
 end  
