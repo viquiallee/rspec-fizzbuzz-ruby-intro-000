@@ -2,10 +2,5 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz("int")
-  if "int" == /3
-  puts "Fizz"
-  elsif "int" == /5
-  puts "Buzz"
-else 
-  puts "FizzBuzz"
+
 end  
